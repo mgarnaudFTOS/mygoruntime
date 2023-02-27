@@ -1,4 +1,4 @@
-module github.com/lyft/goruntime
+module github.com/mgarnaudFTOS/mygoruntime
 
 go 1.14
 
