@@ -13,7 +13,8 @@ import (
 	"github.com/fsnotify/fsnotify"
 	"github.com/lyft/goruntime/snapshot"
 	"github.com/lyft/goruntime/snapshot/entry"
-	stats "github.com/lyft/gostats"
+	//stats "github.com/lyft/gostats"
+	stats "github.com/mgarnaudFTOS/mygostats"
 
 	logger "github.com/sirupsen/logrus"
 )

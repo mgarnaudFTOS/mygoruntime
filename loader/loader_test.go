@@ -12,7 +12,8 @@ import (
 
 	"time"
 
-	stats "github.com/lyft/gostats"
+	//stats "github.com/lyft/gostats"
+	stats "github.com/mgarnaudFTOS/mygostats"
 	logger "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 )
