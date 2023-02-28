@@ -3,7 +3,9 @@ package snapshot
 import (
 	"time"
 
-	"github.com/lyft/goruntime/snapshot/entry"
+	//"github.com/lyft/goruntime/snapshot/entry"
+
+	"github.com/mgarnaudFTOS/mygoruntime/snapshot/entry"
 )
 
 // Implementation of Snapshot for the nilLoaderImpl.

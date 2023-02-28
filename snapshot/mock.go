@@ -3,7 +3,9 @@ package snapshot
 import (
 	"time"
 
-	"github.com/lyft/goruntime/snapshot/entry"
+	//"github.com/lyft/goruntime/snapshot/entry"
+
+	"github.com/mgarnaudFTOS/mygoruntime/snapshot/entry"
 )
 
 // Mock provides a Snapshot implementation for testing

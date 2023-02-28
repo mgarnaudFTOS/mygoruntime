@@ -3,7 +3,10 @@ package snapshot
 import (
 	"time"
 
-	"github.com/lyft/goruntime/snapshot/entry"
+	//"github.com/lyft/goruntime/snapshot/entry"
+	"github.com/mgarnaudFTOS/mygoruntime/snapshot/entry"
+
+	
 )
 
 // Snapshot provides the currently loaded set of runtime values.

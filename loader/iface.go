@@ -1,6 +1,8 @@
 package loader
 
-import "github.com/lyft/goruntime/snapshot"
+//import "github.com/lyft/goruntime/snapshot"
+
+import "github.com/mgarnaudFTOS/mygoruntime/snapshot"
 
 type IFace interface {
 	// @return Snapshot the current snapshot. This reference is safe to use forever, but will grow

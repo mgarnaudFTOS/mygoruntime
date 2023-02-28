@@ -5,7 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lyft/goruntime/snapshot/entry"
+	//"github.com/lyft/goruntime/snapshot/entry"
+	"github.com/mgarnaudFTOS/mygoruntime/snapshot/entry"
 	"github.com/stretchr/testify/assert"
 )
 

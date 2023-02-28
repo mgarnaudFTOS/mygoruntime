@@ -7,7 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lyft/goruntime/snapshot/entry"
+	//"github.com/lyft/goruntime/snapshot/entry"
+	"github.com/mgarnaudFTOS/mygoruntime/snapshot/entry"
 )
 
 func min(lhs uint64, rhs uint64) uint64 {
